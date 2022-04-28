@@ -8,6 +8,6 @@ neatly presenting in a web browser.
 screens:
 
 
-![streamlit_ss](Screenshot 2022-04-28 184314.png) 
+![streamlit_ss](SCREEN.png) 
 
 
